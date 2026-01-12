@@ -1,0 +1,12 @@
+payload:
+- DOMAIN,
+- PROCESS-NAME,Discord.exe
+- PROCESS-NAME,LeagueClient.exe
+- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
+
+
+
+
+
+
