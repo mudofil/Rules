@@ -1,5 +1,5 @@
 payload:
-- 2ip.ru
+- DOMAIN,2ip.ru
 - PROCESS-NAME,com.supercell.clashofclans
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
