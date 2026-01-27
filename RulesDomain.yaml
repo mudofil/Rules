@@ -1,10 +1,12 @@
 payload:
 - DOMAIN,2ip.ru
--DOMAIN,geoguessr.com
+- DOMAIN,geoguessr.com
+- DOMAIN,tracklock.gg
 - PROCESS-NAME,com.supercell.clashofclans
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
 
 
 
