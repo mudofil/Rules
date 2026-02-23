@@ -8,7 +8,9 @@ payload:
 - PROCESS-NAME,org.telegram.messenger
 - PROCESS-NAME,com.roblox.client
 - PROCESS-NAME,MK11.exe
+- PROCESS-NAME,com.duolingo
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
 
 
 
