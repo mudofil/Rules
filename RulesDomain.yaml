@@ -1,5 +1,7 @@
 payload:
 - DOMAIN,2ip.ru
+- DOMAIN-KEYWORD,gravityshavings.net
+- DOMAIN-KEYWORD,deadorbit.net
 - DOMAIN,geoguessr.com
 - DOMAIN,tracklock.gg
 - PROCESS-NAME,com.supercell.clashofclans
@@ -10,6 +12,7 @@ payload:
 - PROCESS-NAME,MK11.exe
 - PROCESS-NAME,Telegram.exe
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
 
 
 
