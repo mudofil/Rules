@@ -4,7 +4,7 @@ payload:
 - DOMAIN-KEYWORD,deadorbit.net
 - DOMAIN,geoguessr.com
 - DOMAIN,tracklock.gg
--domain,jut.su
+- DOMAIN,jut.su
 - PROCESS-NAME,com.supercell.clashofclans
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
