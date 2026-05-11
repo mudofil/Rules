@@ -6,6 +6,7 @@ payload:
 - DOMAIN,tracklock.gg
 - DOMAIN,jut.su
 - DOMAIN,gemini.google.com
+- DOMAIN,chess.com
 - PROCESS-NAME,com.supercell.clashofclans
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
