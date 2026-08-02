@@ -13,6 +13,7 @@ payload:
 - PROCESS-NAME,org.telegram.messenger
 - PROCESS-NAME,MK11.exe
 - PROCESS-NAME,Telegram.exe
+- PROCESS-NAME,Spotify.exe
 - AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
 
 
