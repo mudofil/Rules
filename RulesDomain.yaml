@@ -8,6 +8,7 @@ payload:
 - DOMAIN,gemini.google.com
 - DOMAIN,chess.com
 - DOMAIN,lockify.gg
+- DOMAIN,youtube.com
 - PROCESS-NAME,com.supercell.clashofclans
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
