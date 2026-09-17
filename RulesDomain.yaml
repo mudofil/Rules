@@ -16,7 +16,11 @@ payload:
 - PROCESS-NAME,MK11.exe
 - PROCESS-NAME,Telegram.exe
 - PROCESS-NAME,Spotify.exe
-- AND,((PROCESS-NAME,Warframe.x64.exe),(DST-PORT,6600-6760))
+
+  # === BF1 ===
+- PROCESS-NAME,bf1.exe
+- PROCESS-NAME,EADesktop.exe
+- PROCESS-NAME,EABackgroundService.exe
 
 
 
