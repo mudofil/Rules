@@ -10,6 +10,8 @@ payload:
 - DOMAIN,lockify.gg
 - DOMAIN,youtube.com
 - PROCESS-NAME,com.supercell.clashofclans
+- PROCESS-NAME,gamea.clashofclans.com
+- PROCESS-NAME,Bootstrapper.exe
 - PROCESS-NAME,Discord.exe
 - PROCESS-NAME,LeagueClient.exe
 - PROCESS-NAME,org.telegram.messenger
